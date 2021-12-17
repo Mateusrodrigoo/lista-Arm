@@ -1,2 +1,3 @@
-#Lista Armazem  
- Repositorio para exercicios, desafios e lógica
+Lista Armazem  
+
+Repositorio para exercicios, desafios e lógica
